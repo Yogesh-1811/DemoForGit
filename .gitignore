@@ -1,4 +1,6 @@
 /.metadata/
- New1/.classpath
-        New1/.project
-        New1/.settings/
+.recommenders/
+New1/.classpath
+New1/.project
+New1/.settings/
+
